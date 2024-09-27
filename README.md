@@ -1,0 +1,1 @@
+The Placement Management System is a Spring Boot application that automates and manages the placement activities in a college or university. The system handles student records, job postings, eligibility criteria, interview schedules, and other placement-related operations efficiently.
